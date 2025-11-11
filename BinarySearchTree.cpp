@@ -102,9 +102,8 @@ int main()
 		
 		//At this Point, User has Entered 0 and Ended Loop, and Tree Has been Created
 		
-		printTree(RootNode,0);
 		
-		/*
+		
 		cout << "Please enter number to find, or enter 0 to exit" << endl;
 		cin >> UserInput;
 		
@@ -132,7 +131,7 @@ int main()
 				
 			cin >> UserInput;
 		}
-		*/
+		
 		
 		
 	}
